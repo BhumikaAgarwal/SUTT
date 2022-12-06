@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+}
+.a1{
+    flex-direction: column;
+}
+
+
+.a3{
+    padding-left: 140px;
+    font-size: large;
+
+}
+
+.b1{
+    padding-left: 60px;
+}
+
+.abc{
+    flex-direction: column;
+}
+
