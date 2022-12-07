@@ -20,3 +20,26 @@ body{
     flex-direction: column;
 }
 
+@media(max-width: 1170px)
+{
+    #navbar1
+    {
+        display: none;
+    }
+}
+
+@media(max-width: 1170px)
+{
+    .logo
+    {
+        display: none;
+    }
+}
+
+@media(max-width: 1170px)
+{
+    .search
+    {
+        display: none;
+    }
+}
